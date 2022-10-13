@@ -1,0 +1,5 @@
+{
+    "dataworkspace.excludedProjects": [
+        "home-plants-api/home-plants-api.sqlproj"
+    ]
+}
